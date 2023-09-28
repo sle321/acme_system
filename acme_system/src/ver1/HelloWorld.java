@@ -1,10 +1,10 @@
 package ver1;
 
-public class HelloWorld {
+public class HelloDolly {
 
 	public static void main(String[] args) {
-		System.out.println("Hello from Eclipse");
-		System.out.println("Sam is working locally on his branch");
+		System.out.println("Person 2 is at work!");
+		
 
 	}
 
